@@ -11,6 +11,9 @@
     "FFC0CB",
     "0000FF"
   ],
+  "Gradients": [
+    "FFFFFF",
+    "0"
   "Fonts": [
     0,
     1
