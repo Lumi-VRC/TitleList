@@ -1,0 +1,24 @@
+{
+  "L1": [
+    "_SampleAdminPlainName_",
+    "Another.Admin.Name"
+  ],
+  "L2": [
+    1073741695,
+    1073741695
+  ],
+  "L3": [
+    "_SampleTrustedPlayer_"
+  ],
+  "L4": [
+    "_SampleBannedPlainName_",
+    "_OrUseHashedSaltedValueIfHASH_PLAYERNAMESIsOn________________________"
+  ],
+  "L5": [
+    "Optional human-readable ban reason rows (ignored by ModerationTool today)",
+    "Second row illustrates parallel text; pairing with L4 is not implemented in script"
+  ],
+  "L6": [
+    "Reserved for future ban-reason/feature use (ignored by ModerationTool today)"
+  ]
+}
