@@ -8,16 +8,16 @@
     "Test Title 2"
   ],
   "Colors": [
-    1,
-    2
+    FFC0CB,
+    0000FF
   ],
   "Fonts": [
     1,
     2
   ],
   "Gradients": [
-    0,
-    1
+    FFD700,
+    0
   ],
   "FX": [
     0,
