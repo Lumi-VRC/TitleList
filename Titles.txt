@@ -16,9 +16,11 @@
     "bubbleborg",
     "Consort Puroona",
     "SparksTTV",
-    "SweetCandy3000"
+    "SweetCandy3000",
+    "Milothefloofy"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -54,7 +56,8 @@
     "261138",
     "6900FF",
     "B60BF4",
-    "FF69B4"
+    "FF69B4",
+    "FF9742"
   ],
   "Gradients": [
     "FFFFFF",
@@ -73,7 +76,8 @@
     "780606",
     "6900FF",
     "D063F8",
-    "FF33CC"
+    "FF33CC",
+    "AC54FE"
   ],
   "Fonts": [
     2,
@@ -92,7 +96,8 @@
     7,
     2,
     7,
-    8
+    8,
+    3
   ],
   "FX": [
     1,
@@ -108,6 +113,7 @@
     4,
     4,
     1,
+    4,
     4,
     4,
     4,
