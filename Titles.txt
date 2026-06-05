@@ -22,9 +22,11 @@
     "GoetianLord",
     "SylburTheBunny",
     "Ѕylvester Tux",
-    "Foxxen ˸）"
+    "Foxxen ˸）",
+    "jx_ss"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -72,7 +74,8 @@
     "800080",
     "6600CC",
     "666666",
-    "FF3300"
+    "FF3300",
+    "C48481"
   ],
   "Gradients": [
     "FFFFFF",
@@ -97,7 +100,8 @@
     "960019",
     "6600CC",
     "666666",
-    "FF3300"
+    "FF3300",
+    "C48481"
   ],
   "Fonts": [
     2,
@@ -122,7 +126,8 @@
     2,
     7,
     2,
-    6
+    6,
+    1
   ],
   "FX": [
     1,
@@ -147,6 +152,7 @@
     3,
     2,
     4,
-    4
+    4,
+    2
   ]
 }
