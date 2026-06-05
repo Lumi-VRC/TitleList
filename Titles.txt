@@ -24,9 +24,11 @@
     "Ѕylvester Tux",
     "Foxxen ˸）",
     "jx_ss",
-    "Aτrıx"
+    "Aτrıx",
+    "Malizuti"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -78,7 +80,8 @@
     "666666",
     "FF3300",
     "C48481",
-    "A31AFF"
+    "A31AFF",
+    "FFFF00"
   ],
   "Gradients": [
     "FFFFFF",
@@ -105,7 +108,8 @@
     "666666",
     "FF3300",
     "C48481",
-    "A31AFF"
+    "A31AFF",
+    "FFFF00"
   ],
   "Fonts": [
     2,
@@ -132,6 +136,7 @@
     2,
     6,
     1,
+    7,
     7
   ],
   "FX": [
@@ -159,6 +164,7 @@
     4,
     4,
     2,
-    3
+    3,
+    1
   ]
 }
