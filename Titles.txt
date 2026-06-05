@@ -21,9 +21,11 @@
     "Benevolent",
     "GoetianLord",
     "SylburTheBunny",
-    "Ѕylvester Tux"
+    "Ѕylvester Tux",
+    "Foxxen ˸）"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -69,7 +71,8 @@
     "280137",
     "800080",
     "6600CC",
-    "666666"
+    "666666",
+    "FF3300"
   ],
   "Gradients": [
     "FFFFFF",
@@ -93,7 +96,8 @@
     "280137",
     "960019",
     "6600CC",
-    "666666"
+    "666666",
+    "FF3300"
   ],
   "Fonts": [
     2,
@@ -117,7 +121,8 @@
     2,
     2,
     7,
-    2
+    2,
+    6
   ],
   "FX": [
     1,
@@ -141,6 +146,7 @@
     2,
     3,
     2,
+    4,
     4
   ]
 }
