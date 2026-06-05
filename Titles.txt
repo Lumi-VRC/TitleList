@@ -41,7 +41,7 @@
     "FFA64D",
     "D397FA",
     "8C1AFF",
-    "00FFFF",
+    "903CDA",
     "4D4D5C"
   ],
   "Gradients": [
