@@ -9,9 +9,11 @@
     "SarcoVR",
     "HazelNautica",
     "୧୨PrettiHeart୧୨",
-    "AaronWolf"
+    "AaronWolf",
+    "Scrib․ble"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -33,7 +35,8 @@
     "FF66CC",
     "FF8AE2",
     "FFA64D",
-    "D397FA"
+    "D397FA",
+    "8C1AFF"
   ],
   "Gradients": [
     "FFFFFF",
@@ -45,7 +48,8 @@
     "FFCCEE",
     "FF8AE2",
     "FFA64D",
-    "9A03FF"
+    "9A03FF",
+    "000000"
   ],
   "Fonts": [
     2,
@@ -57,7 +61,8 @@
     5,
     2,
     9,
-    8
+    8,
+    3
   ],
   "FX": [
     1,
@@ -69,6 +74,7 @@
     1,
     1,
     2,
+    4,
     4
   ]
 }
