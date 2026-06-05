@@ -12,9 +12,11 @@
     "AaronWolf",
     "Scrib․ble",
     "NearSummer",
-    "hellagato"
+    "hellagato",
+    "bubbleborg"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -42,7 +44,8 @@
     "D397FA",
     "8C1AFF",
     "903CDA",
-    "4D4D5C"
+    "4D4D5C",
+    "261138"
   ],
   "Gradients": [
     "FFFFFF",
@@ -57,7 +60,8 @@
     "9A03FF",
     "000000",
     "2CDA8E",
-    "A7A6BA"
+    "A7A6BA",
+    "780606"
   ],
   "Fonts": [
     2,
@@ -72,7 +76,8 @@
     8,
     3,
     3,
-    3
+    3,
+    7
   ],
   "FX": [
     1,
@@ -87,6 +92,7 @@
     4,
     4,
     4,
-    1
+    1,
+    4
   ]
 }
