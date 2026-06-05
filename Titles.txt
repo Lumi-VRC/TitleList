@@ -14,9 +14,11 @@
     "NearSummer",
     "hellagato",
     "bubbleborg",
-    "Consort Puroona"
+    "Consort Puroona",
+    "SparksTTV"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -48,7 +50,8 @@
     "903CDA",
     "4D4D5C",
     "261138",
-    "6900FF"
+    "6900FF",
+    "B60BF4"
   ],
   "Gradients": [
     "FFFFFF",
@@ -65,7 +68,8 @@
     "2CDA8E",
     "A7A6BA",
     "780606",
-    "6900FF"
+    "6900FF",
+    "D063F8"
   ],
   "Fonts": [
     2,
@@ -82,7 +86,8 @@
     3,
     3,
     7,
-    2
+    2,
+    7
   ],
   "FX": [
     1,
@@ -98,6 +103,7 @@
     4,
     4,
     1,
+    4,
     4,
     4
   ]
