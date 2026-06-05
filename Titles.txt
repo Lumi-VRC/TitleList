@@ -10,9 +10,11 @@
     "HazelNautica",
     "୧୨PrettiHeart୧୨",
     "AaronWolf",
-    "Scrib․ble"
+    "Scrib․ble",
+    "NearSummer"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -36,7 +38,8 @@
     "FF8AE2",
     "FFA64D",
     "D397FA",
-    "8C1AFF"
+    "8C1AFF",
+    "00FFFF"
   ],
   "Gradients": [
     "FFFFFF",
@@ -49,7 +52,8 @@
     "FF8AE2",
     "FFA64D",
     "9A03FF",
-    "000000"
+    "000000",
+    "2CDA8E"
   ],
   "Fonts": [
     2,
@@ -62,6 +66,7 @@
     2,
     9,
     8,
+    3,
     3
   ],
   "FX": [
@@ -74,6 +79,7 @@
     1,
     1,
     2,
+    4,
     4,
     4
   ]
