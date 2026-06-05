@@ -8,9 +8,11 @@
     "Kіոg Bоb",
     "SarcoVR",
     "HazelNautica",
-    "୧୨PrettiHeart୧୨"
+    "୧୨PrettiHeart୧୨",
+    "AaronWolf"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -30,7 +32,8 @@
     "33CCCC",
     "FF66CC",
     "FF8AE2",
-    "FFA64D"
+    "FFA64D",
+    "D397FA"
   ],
   "Gradients": [
     "FFFFFF",
@@ -41,7 +44,8 @@
     "33CCCC",
     "FFCCEE",
     "FF8AE2",
-    "FFA64D"
+    "FFA64D",
+    "9A03FF"
   ],
   "Fonts": [
     3,
@@ -52,7 +56,8 @@
     3,
     5,
     2,
-    9
+    9,
+    8
   ],
   "FX": [
     0,
@@ -63,6 +68,7 @@
     2,
     1,
     1,
-    2
+    2,
+    4
   ]
 }
