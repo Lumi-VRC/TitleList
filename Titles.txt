@@ -19,9 +19,11 @@
     "SweetCandy3000",
     "Milothefloofy",
     "Benevolent",
-    "GoetianLord"
+    "GoetianLord",
+    "SylburTheBunny"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -63,7 +65,8 @@
     "FF69B4",
     "FF9742",
     "280137",
-    "800080"
+    "800080",
+    "6600CC"
   ],
   "Gradients": [
     "FFFFFF",
@@ -85,7 +88,8 @@
     "FF33CC",
     "AC54FE",
     "280137",
-    "960019"
+    "960019",
+    "6600CC"
   ],
   "Fonts": [
     2,
@@ -107,7 +111,8 @@
     8,
     3,
     2,
-    2
+    2,
+    7
   ],
   "FX": [
     1,
@@ -129,6 +134,7 @@
     4,
     4,
     2,
-    3
+    3,
+    2
   ]
 }
