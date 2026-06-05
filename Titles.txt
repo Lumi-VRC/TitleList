@@ -11,9 +11,11 @@
     "୧୨PrettiHeart୧୨",
     "AaronWolf",
     "Scrib․ble",
-    "NearSummer"
+    "NearSummer",
+    "hellagato"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -39,7 +41,8 @@
     "FFA64D",
     "D397FA",
     "8C1AFF",
-    "00FFFF"
+    "00FFFF",
+    "4D4D5C"
   ],
   "Gradients": [
     "FFFFFF",
@@ -53,7 +56,8 @@
     "FFA64D",
     "9A03FF",
     "000000",
-    "2CDA8E"
+    "2CDA8E",
+    "A7A6BA"
   ],
   "Fonts": [
     2,
@@ -66,6 +70,7 @@
     2,
     9,
     8,
+    3,
     3,
     3
   ],
@@ -81,6 +86,7 @@
     2,
     4,
     4,
-    4
+    4,
+    1
   ]
 }
