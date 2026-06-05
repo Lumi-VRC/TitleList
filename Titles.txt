@@ -2,7 +2,7 @@
   "Usernames": [
     "- Lumine -",
     "IceTiger540",
-    "Kirasoul"
+    "SpookyBandit"
   ],
   "Titles": [
     "Test Title 1",
