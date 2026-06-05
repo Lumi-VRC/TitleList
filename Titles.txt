@@ -20,9 +20,11 @@
     "Milothefloofy",
     "Benevolent",
     "GoetianLord",
-    "SylburTheBunny"
+    "SylburTheBunny",
+    "Ѕylvester Tux"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -66,7 +68,8 @@
     "FF9742",
     "280137",
     "800080",
-    "6600CC"
+    "6600CC",
+    "FF5500"
   ],
   "Gradients": [
     "FFFFFF",
@@ -89,7 +92,8 @@
     "AC54FE",
     "280137",
     "960019",
-    "6600CC"
+    "6600CC",
+    "404040"
   ],
   "Fonts": [
     2,
@@ -112,7 +116,8 @@
     3,
     2,
     2,
-    7
+    7,
+    2
   ],
   "FX": [
     1,
@@ -135,6 +140,7 @@
     4,
     2,
     3,
-    2
+    2,
+    4
   ]
 }
