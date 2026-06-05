@@ -26,9 +26,11 @@
     "jx_ss",
     "Aτrıx",
     "Malizuti",
-    "JamesonOwO"
+    "JamesonOwO",
+    "ΛGΞRΛ"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -84,7 +86,8 @@
     "C48481",
     "A31AFF",
     "FFFF00",
-    "FF4A83"
+    "FF4A83",
+    "FFFFFF"
   ],
   "Gradients": [
     "FFFFFF",
@@ -113,7 +116,8 @@
     "C48481",
     "A31AFF",
     "FFFF00",
-    "10C4BE"
+    "10C4BE",
+    "DDDDDD"
   ],
   "Fonts": [
     2,
@@ -142,7 +146,8 @@
     1,
     7,
     7,
-    9
+    9,
+    5
   ],
   "FX": [
     1,
@@ -171,6 +176,7 @@
     2,
     3,
     1,
+    2,
     2
   ]
 }
