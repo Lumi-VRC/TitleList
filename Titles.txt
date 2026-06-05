@@ -18,9 +18,11 @@
     "SparksTTV",
     "SweetCandy3000",
     "Milothefloofy",
-    "Benevolent"
+    "Benevolent",
+    "GoetianLord"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -60,7 +62,8 @@
     "B60BF4",
     "FF69B4",
     "FF9742",
-    "280137"
+    "280137",
+    "800080"
   ],
   "Gradients": [
     "FFFFFF",
@@ -81,7 +84,8 @@
     "D063F8",
     "FF33CC",
     "AC54FE",
-    "280137"
+    "280137",
+    "960019"
   ],
   "Fonts": [
     2,
@@ -102,6 +106,7 @@
     7,
     8,
     3,
+    2,
     2
   ],
   "FX": [
@@ -123,6 +128,7 @@
     4,
     4,
     4,
-    2
+    2,
+    3
   ]
 }
