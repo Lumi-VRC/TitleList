@@ -13,9 +13,11 @@
     "Scrib․ble",
     "NearSummer",
     "hellagato",
-    "bubbleborg"
+    "bubbleborg",
+    "Consort Puroona"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -45,7 +47,8 @@
     "8C1AFF",
     "903CDA",
     "4D4D5C",
-    "261138"
+    "261138",
+    "6900FF"
   ],
   "Gradients": [
     "FFFFFF",
@@ -61,7 +64,8 @@
     "000000",
     "2CDA8E",
     "A7A6BA",
-    "780606"
+    "780606",
+    "6900FF"
   ],
   "Fonts": [
     2,
@@ -77,7 +81,8 @@
     3,
     3,
     3,
-    7
+    7,
+    2
   ],
   "FX": [
     1,
@@ -93,6 +98,7 @@
     4,
     4,
     1,
+    4,
     4
   ]
 }
