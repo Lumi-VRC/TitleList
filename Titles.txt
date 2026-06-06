@@ -93,7 +93,7 @@
     "FF4A83",
     "FFFFFF",
     "FFC0CB",
-    "00CCCC"
+    "E60000"
   ],
   "Gradients": [
     "FFFFFF",
@@ -125,7 +125,7 @@
     "10C4BE",
     "DDDDDD",
     "FFC0CB",
-    "00CCCC"
+    "8000FF"
   ],
   "Fonts": [
     2,
@@ -157,7 +157,7 @@
     9,
     5,
     8,
-    7
+    2
   ],
   "FX": [
     1,
