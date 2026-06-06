@@ -29,9 +29,11 @@
     "JamesonOwO",
     "ΛGΞRΛ",
     "proxyytt",
-    "~Cato~"
+    "~Cato~",
+    "ཧвєιιαཧ"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -93,7 +95,8 @@
     "FF4A83",
     "FFFFFF",
     "FFC0CB",
-    "E60000"
+    "E60000",
+    "660066"
   ],
   "Gradients": [
     "FFFFFF",
@@ -125,7 +128,8 @@
     "10C4BE",
     "DDDDDD",
     "FFC0CB",
-    "8000FF"
+    "8000FF",
+    "660066"
   ],
   "Fonts": [
     2,
@@ -157,6 +161,7 @@
     9,
     5,
     8,
+    2,
     2
   ],
   "FX": [
@@ -189,6 +194,7 @@
     2,
     2,
     1,
-    1
+    1,
+    3
   ]
 }
