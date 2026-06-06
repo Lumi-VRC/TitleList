@@ -27,9 +27,11 @@
     "Aτrıx",
     "Malizuti",
     "JamesonOwO",
-    "ΛGΞRΛ"
+    "ΛGΞRΛ",
+    "proxyytt"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -87,7 +89,8 @@
     "A31AFF",
     "FFFF00",
     "FF4A83",
-    "FFFFFF"
+    "FFFFFF",
+    "FFC0CB"
   ],
   "Gradients": [
     "FFFFFF",
@@ -117,7 +120,8 @@
     "A31AFF",
     "FFFF00",
     "10C4BE",
-    "DDDDDD"
+    "DDDDDD",
+    "FFC0CB"
   ],
   "Fonts": [
     2,
@@ -147,7 +151,8 @@
     7,
     7,
     9,
-    5
+    5,
+    8
   ],
   "FX": [
     1,
@@ -177,6 +182,7 @@
     3,
     1,
     2,
-    2
+    2,
+    1
   ]
 }
