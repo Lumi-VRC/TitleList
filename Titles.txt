@@ -96,7 +96,7 @@
     "FFFFFF",
     "FFC0CB",
     "E600AC",
-    "660066"
+    "5200CC"
   ],
   "Gradients": [
     "FFFFFF",
@@ -129,7 +129,7 @@
     "DDDDDD",
     "FFC0CB",
     "009999",
-    "5200CC"
+    "000000"
   ],
   "Fonts": [
     2,
