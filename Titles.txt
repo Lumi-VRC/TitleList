@@ -33,9 +33,11 @@
     "ཧвєιιαཧ",
     "PeanutDoge",
     "Jayden-R",
-    "IceTiger540"
+    "IceTiger540",
+    "KaoticAura"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -105,7 +107,8 @@
     "9966FF",
     "FFFF00",
     "0E7A0D",
-    "9900CC"
+    "9900CC",
+    "E6E6FA"
   ],
   "Gradients": [
     "FFFFFF",
@@ -141,7 +144,8 @@
     "5500FF",
     "E6005C",
     "D5DC23",
-    "00FFFF"
+    "00FFFF",
+    "E6E6FA"
   ],
   "Fonts": [
     2,
@@ -177,7 +181,8 @@
     2,
     7,
     7,
-    3
+    3,
+    4
   ],
   "FX": [
     1,
@@ -213,6 +218,7 @@
     4,
     2,
     1,
+    2,
     2
   ]
 }
