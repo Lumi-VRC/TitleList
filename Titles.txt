@@ -32,9 +32,11 @@
     "~Cato~",
     "ཧвєιιαཧ",
     "PeanutDoge",
-    "Jayden-R"
+    "Jayden-R",
+    "IceTiger540"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -102,7 +104,8 @@
     "0000FF",
     "9966FF",
     "FFFF00",
-    "0E7A0D"
+    "0E7A0D",
+    "9900CC"
   ],
   "Gradients": [
     "FFFFFF",
@@ -137,7 +140,8 @@
     "5200CC",
     "5500FF",
     "E6005C",
-    "D5DC23"
+    "D5DC23",
+    "00FFFF"
   ],
   "Fonts": [
     2,
@@ -172,7 +176,8 @@
     2,
     2,
     7,
-    7
+    7,
+    3
   ],
   "FX": [
     1,
@@ -207,6 +212,7 @@
     2,
     4,
     2,
-    1
+    1,
+    2
   ]
 }
