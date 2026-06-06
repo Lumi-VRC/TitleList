@@ -31,9 +31,11 @@
     "proxyytt",
     "~Cato~",
     "ཧвєιιαཧ",
-    "PeanutDoge"
+    "PeanutDoge",
+    "Jayden-R"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -99,7 +101,8 @@
     "FFC0CB",
     "0000FF",
     "9966FF",
-    "FFFF00"
+    "FFFF00",
+    "0E7A0D"
   ],
   "Gradients": [
     "FFFFFF",
@@ -133,7 +136,8 @@
     "FFC0CB",
     "5200CC",
     "5500FF",
-    "E6005C"
+    "E6005C",
+    "D5DC23"
   ],
   "Fonts": [
     2,
@@ -167,6 +171,7 @@
     8,
     2,
     2,
+    7,
     7
   ],
   "FX": [
@@ -201,6 +206,7 @@
     1,
     2,
     4,
-    2
+    2,
+    1
   ]
 }
