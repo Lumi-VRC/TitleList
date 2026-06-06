@@ -28,9 +28,11 @@
     "Malizuti",
     "JamesonOwO",
     "ΛGΞRΛ",
-    "proxyytt"
+    "proxyytt",
+    "~Cato~"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -90,7 +92,8 @@
     "FFFF00",
     "FF4A83",
     "FFFFFF",
-    "FFC0CB"
+    "FFC0CB",
+    "00CCCC"
   ],
   "Gradients": [
     "FFFFFF",
@@ -121,7 +124,8 @@
     "FFFF00",
     "10C4BE",
     "DDDDDD",
-    "FFC0CB"
+    "FFC0CB",
+    "00CCCC"
   ],
   "Fonts": [
     2,
@@ -152,7 +156,8 @@
     7,
     9,
     5,
-    8
+    8,
+    7
   ],
   "FX": [
     1,
@@ -183,6 +188,7 @@
     1,
     2,
     2,
+    1,
     1
   ]
 }
