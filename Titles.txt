@@ -35,9 +35,11 @@
     "Jayden-R",
     "IceTiger540",
     "KaoticAura",
-    "Thatrandomtall"
+    "Thatrandomtall",
+    "Mysterious≺3"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -111,7 +113,8 @@
     "0E7A0D",
     "9900CC",
     "E6E6FA",
-    "3B00B3"
+    "3B00B3",
+    "C195C8"
   ],
   "Gradients": [
     "FFFFFF",
@@ -149,7 +152,8 @@
     "D5DC23",
     "00FFFF",
     "E6E6FA",
-    "006BB3"
+    "006BB3",
+    "B361C1"
   ],
   "Fonts": [
     2,
@@ -187,7 +191,8 @@
     7,
     3,
     4,
-    8
+    8,
+    2
   ],
   "FX": [
     1,
@@ -225,6 +230,7 @@
     1,
     2,
     2,
-    1
+    1,
+    3
   ]
 }
