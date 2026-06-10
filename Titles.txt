@@ -123,7 +123,7 @@
     "C195C8",
     "FFFFFF",
     "277FB0",
-    "CC33FF"
+    "FF66FF"
   ],
   "Gradients": [
     "FFFFFF",
@@ -165,7 +165,7 @@
     "B361C1",
     "693EFE",
     "277FB0",
-    "CC33FF"
+    "FF66FF"
   ],
   "Fonts": [
     2,
