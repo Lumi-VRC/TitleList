@@ -40,9 +40,11 @@
     "Pranav wav",
     "WillowFur_",
     "zacdafawx",
-    "zennans"
+    "zennans",
+    "Raiserr"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -126,7 +128,8 @@
     "FFFFFF",
     "277FB0",
     "FF66FF",
-    "99CCFF"
+    "99CCFF",
+    "FFFFFF"
   ],
   "Gradients": [
     "FFFFFF",
@@ -169,7 +172,8 @@
     "693EFE",
     "277FB0",
     "FF66FF",
-    "99CCFF"
+    "99CCFF",
+    "FFFFFF"
   ],
   "Fonts": [
     2,
@@ -212,6 +216,7 @@
     7,
     2,
     7,
+    2,
     2
   ],
   "FX": [
@@ -255,6 +260,7 @@
     1,
     2,
     1,
-    1
+    1,
+    4
   ]
 }
