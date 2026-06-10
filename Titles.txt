@@ -37,9 +37,11 @@
     "KaoticAura",
     "Thatrandomtall",
     "Mysterious≺3",
-    "Pranav wav"
+    "Pranav wav",
+    "WillowFur_"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -117,7 +119,8 @@
     "E6E6FA",
     "3B00B3",
     "C195C8",
-    "FFFFFF"
+    "FFFFFF",
+    "4FB1E8"
   ],
   "Gradients": [
     "FFFFFF",
@@ -157,7 +160,8 @@
     "E6E6FA",
     "006BB3",
     "B361C1",
-    "693EFE"
+    "693EFE",
+    "277FB0"
   ],
   "Fonts": [
     2,
@@ -197,7 +201,8 @@
     4,
     8,
     2,
-    7
+    7,
+    4
   ],
   "FX": [
     1,
@@ -237,6 +242,7 @@
     2,
     1,
     3,
-    1
+    1,
+    2
   ]
 }
