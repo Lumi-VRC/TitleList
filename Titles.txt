@@ -39,9 +39,11 @@
     "Mysterious≺3",
     "Pranav wav",
     "WillowFur_",
-    "zacdafawx"
+    "zacdafawx",
+    "zennans"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -123,7 +125,8 @@
     "C195C8",
     "FFFFFF",
     "277FB0",
-    "FF66FF"
+    "FF66FF",
+    "99CCFF"
   ],
   "Gradients": [
     "FFFFFF",
@@ -165,7 +168,8 @@
     "B361C1",
     "693EFE",
     "277FB0",
-    "FF66FF"
+    "FF66FF",
+    "99CCFF"
   ],
   "Fonts": [
     2,
@@ -207,7 +211,8 @@
     2,
     7,
     2,
-    7
+    7,
+    2
   ],
   "FX": [
     1,
@@ -249,6 +254,7 @@
     3,
     1,
     2,
-    1
+    1,
+    4
   ]
 }
