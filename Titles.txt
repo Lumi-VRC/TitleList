@@ -42,9 +42,11 @@
     "zacdafawx",
     "zennans",
     "Raiserr",
-    "Trikxty"
+    "Trikxty",
+    "SYSTM"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -132,7 +134,8 @@
     "FF66FF",
     "99CCFF",
     "FFFFFF",
-    "EFAEB6"
+    "EFAEB6",
+    "006600"
   ],
   "Gradients": [
     "FFFFFF",
@@ -177,7 +180,8 @@
     "FF66FF",
     "99CCFF",
     "FFFFFF",
-    "EFAEB6"
+    "EFAEB6",
+    "00FF00"
   ],
   "Fonts": [
     2,
@@ -222,7 +226,8 @@
     7,
     2,
     2,
-    8
+    8,
+    3
   ],
   "FX": [
     1,
@@ -267,6 +272,7 @@
     1,
     1,
     4,
-    2
+    2,
+    4
   ]
 }
