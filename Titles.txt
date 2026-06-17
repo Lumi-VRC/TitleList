@@ -44,9 +44,11 @@
     "Raiserr",
     "Trikxty",
     "SYSTM",
-    "xavier8202"
+    "xavier8202",
+    "PlatinumWolf402"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -138,7 +140,8 @@
     "FFFFFF",
     "C9D9FF",
     "006600",
-    "0000FF"
+    "0000FF",
+    "CC33FF"
   ],
   "Gradients": [
     "FFFFFF",
@@ -185,7 +188,8 @@
     "FFFFFF",
     "F89B9E",
     "00FF00",
-    "00FF00"
+    "00FF00",
+    "CC33FF"
   ],
   "Fonts": [
     2,
@@ -232,7 +236,8 @@
     2,
     8,
     3,
-    1
+    1,
+    2
   ],
   "FX": [
     1,
@@ -279,6 +284,7 @@
     4,
     2,
     4,
-    4
+    4,
+    1
   ]
 }
