@@ -46,9 +46,11 @@
     "SYSTM",
     "xavier8202",
     "PlatinumWolf402",
-    "~XANE"
+    "~XANE",
+    "rar2"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -144,7 +146,8 @@
     "006600",
     "0000FF",
     "CC33FF",
-    "4960A8"
+    "4960A8",
+    "F07857"
   ],
   "Gradients": [
     "FFFFFF",
@@ -193,7 +196,8 @@
     "00FF00",
     "00FF00",
     "CC33FF",
-    "4960A8"
+    "4960A8",
+    "FFB380"
   ],
   "Fonts": [
     2,
@@ -242,7 +246,8 @@
     3,
     1,
     2,
-    8
+    8,
+    3
   ],
   "FX": [
     1,
@@ -291,6 +296,7 @@
     4,
     4,
     1,
+    2,
     2
   ]
 }
