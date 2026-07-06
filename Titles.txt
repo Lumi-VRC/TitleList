@@ -47,9 +47,11 @@
     "xavier8202",
     "PlatinumWolf402",
     "~XANE",
-    "rar2"
+    "rar2",
+    "BellTower"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -147,7 +149,8 @@
     "0000FF",
     "CC33FF",
     "4960A8",
-    "F07857"
+    "F07857",
+    "FF502E"
   ],
   "Gradients": [
     "FFFFFF",
@@ -197,7 +200,8 @@
     "00FF00",
     "CC33FF",
     "4960A8",
-    "FFB380"
+    "FFB380",
+    "2EDCFF"
   ],
   "Fonts": [
     2,
@@ -247,7 +251,8 @@
     1,
     2,
     8,
-    3
+    3,
+    2
   ],
   "FX": [
     1,
@@ -297,6 +302,7 @@
     4,
     1,
     2,
-    2
+    2,
+    4
   ]
 }
