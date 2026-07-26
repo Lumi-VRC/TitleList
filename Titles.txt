@@ -209,7 +209,7 @@
     "FFB380",
     "2EDCFF",
     "FFFFFF",
-    "66FFFF"
+    "3399FF"
   ],
   "Fonts": [
     2,
