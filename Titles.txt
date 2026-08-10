@@ -50,9 +50,11 @@
     "rar2",
     "BellTower",
     "CrazeDogg",
-    "Frosty_Rush"
+    "Frosty_Rush",
+    "ChanAurora"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -156,7 +158,8 @@
     "F07857",
     "FF502E",
     "FFFFFF",
-    "66FFFF"
+    "66FFFF",
+    "FF3399"
   ],
   "Gradients": [
     "FFFFFF",
@@ -209,7 +212,8 @@
     "FFB380",
     "2EDCFF",
     "FFFFFF",
-    "3399FF"
+    "3399FF",
+    "CC33FF"
   ],
   "Fonts": [
     2,
@@ -262,7 +266,8 @@
     3,
     2,
     3,
-    8
+    8,
+    5
   ],
   "FX": [
     1,
@@ -315,6 +320,7 @@
     2,
     4,
     4,
-    2
+    2,
+    1
   ]
 }
