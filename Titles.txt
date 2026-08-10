@@ -51,9 +51,11 @@
     "BellTower",
     "CrazeDogg",
     "Frosty_Rush",
-    "ChanAurora"
+    "ChanAurora",
+    "Snowraphim"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -159,7 +161,8 @@
     "FF502E",
     "FFFFFF",
     "66FFFF",
-    "FF3399"
+    "FF3399",
+    "00CCFF"
   ],
   "Gradients": [
     "FFFFFF",
@@ -213,7 +216,8 @@
     "2EDCFF",
     "FFFFFF",
     "3399FF",
-    "CC33FF"
+    "CC33FF",
+    "9966FF"
   ],
   "Fonts": [
     2,
@@ -267,7 +271,8 @@
     2,
     3,
     8,
-    5
+    5,
+    9
   ],
   "FX": [
     1,
@@ -321,6 +326,7 @@
     4,
     4,
     2,
-    1
+    1,
+    2
   ]
 }
