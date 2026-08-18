@@ -54,7 +54,7 @@
     "ChanAurora",
     "Snowraphim",
     "Ｒｏｔｙ",
-    "~ѕоllеr~",
+    "~ѕоll~",
     "So̲ra",
     "furfagie"
   ],
