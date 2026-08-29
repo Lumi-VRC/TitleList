@@ -62,9 +62,11 @@
     "StarBerryPie",
     "amc4t",
     "Bonfur",
-    "Zion_Horizon"
+    "Zion_Horizon",
+    "Shroomies_"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -192,7 +194,8 @@
     "FF0000",
     "9900FF",
     "CC33FF",
-    "CC00CC"
+    "CC00CC",
+    "BF80FF"
   ],
   "Gradients": [
     "FFFFFF",
@@ -257,7 +260,8 @@
     "800000",
     "9900FF",
     "CC33FF",
-    "FFFFFF"
+    "FFFFFF",
+    "BF80FF"
   ],
   "Fonts": [
     2,
@@ -322,7 +326,8 @@
     2,
     3,
     8,
-    8
+    8,
+    7
   ],
   "FX": [
     1,
@@ -387,6 +392,7 @@
     3,
     2,
     1,
-    3
+    3,
+    1
   ]
 }
