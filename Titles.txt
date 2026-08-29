@@ -61,9 +61,11 @@
     "Rudս",
     "StarBerryPie",
     "amc4t",
-    "Bonfur"
+    "Bonfur",
+    "Zion_Horizon"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -189,7 +191,8 @@
     "000000",
     "FF0000",
     "9900FF",
-    "CC33FF"
+    "CC33FF",
+    "CC00CC"
   ],
   "Gradients": [
     "FFFFFF",
@@ -253,7 +256,8 @@
     "000000",
     "800000",
     "9900FF",
-    "CC33FF"
+    "CC33FF",
+    "FFFFFF"
   ],
   "Fonts": [
     2,
@@ -317,6 +321,7 @@
     4,
     2,
     3,
+    8,
     8
   ],
   "FX": [
@@ -381,6 +386,7 @@
     2,
     3,
     2,
-    1
+    1,
+    3
   ]
 }
