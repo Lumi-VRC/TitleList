@@ -68,9 +68,11 @@
     "Milo Fluff",
     "darkchaos23",
     "༺ϻɾ λʂƚɾσ༻",
-    "Anthonyg5005"
+    "Anthonyg5005",
+    "'EveryDayFurry"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -210,7 +212,8 @@
     "3399FF",
     "B30000",
     "9933FF",
-    "002FD8"
+    "002FD8",
+    "00E600"
   ],
   "Gradients": [
     "FFFFFF",
@@ -281,7 +284,8 @@
     "0080FF",
     "B30000",
     "0066FF",
-    "002FD8"
+    "002FD8",
+    "00E600"
   ],
   "Fonts": [
     2,
@@ -352,7 +356,8 @@
     8,
     1,
     7,
-    5
+    5,
+    6
   ],
   "FX": [
     1,
@@ -423,6 +428,7 @@
     3,
     1,
     2,
+    1,
     1
   ]
 }
