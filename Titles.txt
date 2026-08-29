@@ -64,9 +64,11 @@
     "Bonfur",
     "Zion_Horizon",
     "Shroomies_",
-    "֔֔֔֔֔"
+    "֔֔֔֔֔",
+    "Milo Fluff"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -198,7 +200,8 @@
     "CC33FF",
     "CC00CC",
     "BF80FF",
-    "A31AFF"
+    "A31AFF",
+    "99CCFF"
   ],
   "Gradients": [
     "FFFFFF",
@@ -265,7 +268,8 @@
     "CC33FF",
     "FFFFFF",
     "BF80FF",
-    "6666FF"
+    "6666FF",
+    "99CCFF"
   ],
   "Fonts": [
     2,
@@ -332,7 +336,8 @@
     8,
     8,
     7,
-    7
+    7,
+    8
   ],
   "FX": [
     1,
@@ -399,6 +404,7 @@
     1,
     3,
     1,
-    4
+    4,
+    1
   ]
 }
