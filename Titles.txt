@@ -66,9 +66,11 @@
     "Shroomies_",
     "֔֔֔֔֔",
     "Milo Fluff",
-    "darkchaos23"
+    "darkchaos23",
+    "༺ϻɾ λʂƚɾσ༻"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -204,7 +206,8 @@
     "BF80FF",
     "A31AFF",
     "3399FF",
-    "B30000"
+    "B30000",
+    "9933FF"
   ],
   "Gradients": [
     "FFFFFF",
@@ -273,7 +276,8 @@
     "BF80FF",
     "6666FF",
     "0080FF",
-    "B30000"
+    "B30000",
+    "0066FF"
   ],
   "Fonts": [
     2,
@@ -342,7 +346,8 @@
     7,
     7,
     8,
-    1
+    1,
+    7
   ],
   "FX": [
     1,
@@ -411,6 +416,7 @@
     1,
     4,
     3,
-    1
+    1,
+    2
   ]
 }
