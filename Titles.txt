@@ -59,9 +59,11 @@
     "furfagie",
     "´ѕᴇʙ",
     "Rudս",
-    "StarBerryPie"
+    "StarBerryPie",
+    "amc4t"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -183,7 +185,8 @@
     "2596BE",
     "6600FF",
     "000000",
-    "FF0000"
+    "FF0000",
+    "9900FF"
   ],
   "Gradients": [
     "FFFFFF",
@@ -245,7 +248,8 @@
     "C2EFFF",
     "6600FF",
     "000000",
-    "800000"
+    "800000",
+    "9900FF"
   ],
   "Fonts": [
     2,
@@ -307,7 +311,8 @@
     3,
     8,
     4,
-    2
+    2,
+    3
   ],
   "FX": [
     1,
@@ -369,6 +374,7 @@
     3,
     2,
     2,
-    3
+    3,
+    2
   ]
 }
