@@ -65,9 +65,11 @@
     "Zion_Horizon",
     "Shroomies_",
     "֔֔֔֔֔",
-    "Milo Fluff"
+    "Milo Fluff",
+    "darkchaos23"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -201,7 +203,8 @@
     "CC00CC",
     "BF80FF",
     "A31AFF",
-    "99CCFF"
+    "99CCFF",
+    "B30000"
   ],
   "Gradients": [
     "FFFFFF",
@@ -269,7 +272,8 @@
     "FFFFFF",
     "BF80FF",
     "6666FF",
-    "99CCFF"
+    "99CCFF",
+    "B30000"
   ],
   "Fonts": [
     2,
@@ -337,7 +341,8 @@
     8,
     7,
     7,
-    8
+    8,
+    1
   ],
   "FX": [
     1,
@@ -405,6 +410,7 @@
     3,
     1,
     4,
+    1,
     1
   ]
 }
