@@ -69,9 +69,11 @@
     "darkchaos23",
     "༺ϻɾ λʂƚɾσ༻",
     "Anthonyg5005",
-    "'EveryDayFurry"
+    "'EveryDayFurry",
+    "Dark_light38"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -213,7 +215,8 @@
     "B30000",
     "9933FF",
     "002FD8",
-    "00E600"
+    "00E600",
+    "6666FF"
   ],
   "Gradients": [
     "FFFFFF",
@@ -285,7 +288,8 @@
     "B30000",
     "0066FF",
     "002FD8",
-    "00E600"
+    "00E600",
+    "6666FF"
   ],
   "Fonts": [
     2,
@@ -357,7 +361,8 @@
     1,
     7,
     5,
-    6
+    6,
+    4
   ],
   "FX": [
     1,
@@ -429,6 +434,7 @@
     1,
     2,
     1,
-    1
+    1,
+    4
   ]
 }
