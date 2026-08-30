@@ -74,9 +74,11 @@
     "Kobe_Pup",
     "AstroReaper 6394",
     "Percy?",
-    "puppyboypb"
+    "puppyboypb",
+    "Doge2323"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -228,7 +230,8 @@
     "800080",
     "FF6600",
     "7300E6",
-    "CC0000"
+    "CC0000",
+    "6600CC"
   ],
   "Gradients": [
     "FFFFFF",
@@ -305,7 +308,8 @@
     "800080",
     "990099",
     "0066FF",
-    "3333FF"
+    "3333FF",
+    "6600CC"
   ],
   "Fonts": [
     2,
@@ -382,7 +386,8 @@
     8,
     7,
     2,
-    2
+    2,
+    8
   ],
   "FX": [
     1,
@@ -459,6 +464,7 @@
     1,
     4,
     2,
-    1
+    1,
+    4
   ]
 }
