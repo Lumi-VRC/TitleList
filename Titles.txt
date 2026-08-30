@@ -73,9 +73,11 @@
     "Dark_light38",
     "Kobe_Pup",
     "AstroReaper 6394",
-    "Percy?"
+    "Percy?",
+    "puppyboypb"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -225,7 +227,8 @@
     "6666FF",
     "800080",
     "FF6600",
-    "7300E6"
+    "7300E6",
+    "CC0000"
   ],
   "Gradients": [
     "FFFFFF",
@@ -301,7 +304,8 @@
     "661AFF",
     "800080",
     "990099",
-    "0066FF"
+    "0066FF",
+    "3333FF"
   ],
   "Fonts": [
     2,
@@ -377,6 +381,7 @@
     4,
     8,
     7,
+    2,
     2
   ],
   "FX": [
@@ -453,6 +458,7 @@
     4,
     1,
     4,
-    2
+    2,
+    1
   ]
 }
