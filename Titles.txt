@@ -70,9 +70,11 @@
     "༺ϻɾ λʂƚɾσ༻",
     "Anthonyg5005",
     "'EveryDayFurry",
-    "Dark_light38"
+    "Dark_light38",
+    "Kobe_Pup"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -216,7 +218,8 @@
     "9933FF",
     "002FD8",
     "00E600",
-    "6666FF"
+    "6666FF",
+    "800080"
   ],
   "Gradients": [
     "FFFFFF",
@@ -289,7 +292,8 @@
     "0066FF",
     "002FD8",
     "00E600",
-    "661AFF"
+    "661AFF",
+    "800080"
   ],
   "Fonts": [
     2,
@@ -362,7 +366,8 @@
     7,
     5,
     6,
-    4
+    4,
+    8
   ],
   "FX": [
     1,
@@ -435,6 +440,7 @@
     2,
     1,
     1,
-    4
+    4,
+    1
   ]
 }
