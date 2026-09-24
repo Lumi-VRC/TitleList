@@ -75,9 +75,11 @@
     "AstroRеaper",
     "Percy?",
     "puppyboypb",
-    "Doge2323"
+    "Doge2323",
+    "NexiaIsSad"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -231,7 +233,8 @@
     "FFFFFF",
     "7300E6",
     "CC0000",
-    "6600CC"
+    "6600CC",
+    "993399"
   ],
   "Gradients": [
     "FFFFFF",
@@ -309,7 +312,8 @@
     "FFFFFF",
     "0066FF",
     "3333FF",
-    "AE00C7"
+    "AE00C7",
+    "FF66FF"
   ],
   "Fonts": [
     2,
@@ -387,7 +391,8 @@
     3,
     2,
     2,
-    8
+    8,
+    5
   ],
   "FX": [
     1,
@@ -465,6 +470,7 @@
     4,
     2,
     1,
-    4
+    4,
+    3
   ]
 }
