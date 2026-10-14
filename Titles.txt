@@ -76,9 +76,11 @@
     "Percy?",
     "puppyboypb",
     "Doge2323",
-    "NexiaIsSad"
+    "NexiaIsSad",
+    "Ithus"
   ],
   "Titles": [
+    "Beta Tester",
     "Beta Tester",
     "Beta Tester",
     "Beta Tester",
@@ -234,7 +236,8 @@
     "7300E6",
     "CC0000",
     "6600CC",
-    "993399"
+    "993399",
+    "800000"
   ],
   "Gradients": [
     "FFFFFF",
@@ -313,7 +316,8 @@
     "0066FF",
     "3333FF",
     "AE00C7",
-    "FF66FF"
+    "FF66FF",
+    "800000"
   ],
   "Fonts": [
     2,
@@ -392,7 +396,8 @@
     2,
     2,
     8,
-    5
+    5,
+    2
   ],
   "FX": [
     1,
@@ -471,6 +476,7 @@
     2,
     1,
     4,
-    3
+    3,
+    1
   ]
 }
